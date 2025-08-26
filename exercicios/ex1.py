@@ -1,4 +1,10 @@
 print("Hello world")
 
-valor = input("Insira um numero: ")
+valor = int(input("Insira um numero: "))
+
+fibonacci = [0, 1]
+
+print("   ")
+
+
 
